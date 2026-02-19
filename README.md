@@ -29,4 +29,4 @@ Este repositório tem fins educacionais e de estudo. Respeite os direitos autora
 
 ## Contribua
 
-Tem algum livro tech que não pode faltar aqui? Fique à vontade para abrir um pull request ou sugerir no issues. Ressaltando que se trata de um fork de um projeto de outra pessoa.
+Tem algum livro tech que não pode faltar aqui? Fique à vontade para abrir um pull request ou sugerir no issues.
