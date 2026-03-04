@@ -4,11 +4,11 @@
   <img src="https://ryanditko-dev.vercel.app/src/img/projetos/books.avif" alt="Capa do Projeto" width="100%">
 </div>
 
-Bem-vindo ao repositório **Biblioteca Tech** — um espaço cuidadosamente montado para armazenar, compartilhar e consultar uma vasta coleção de livros voltados para o universo da tecnologia, programação, desenvolvimento de software, infraestrutura, segurança da informação e muito mais.
+Bem-vindo ao repositório **Books** — um espaço cuidadosamente montado para armazenar, compartilhar e consultar uma vasta coleção de livros voltados para o universo da tecnologia, programação, desenvolvimento de software, infraestrutura, segurança da informação e muito mais.
 
 ## O que você vai encontrar aqui?
 
-Este repositório serve como um acervo pessoal (mas que todo mundo nerd vai amar) com conteúdos valiosos como:
+Este repositório serve como um acervo pessoal mas com conteúdos valiosos como:
 
 - Livros sobre linguagens de programação (Python, JavaScript, Java, C, PHP, Ruby, etc)
 - Obras sobre ciência de dados, machine learning e inteligência artificial
