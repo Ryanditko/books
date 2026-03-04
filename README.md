@@ -1,4 +1,4 @@
-# Biblioteca Tech
+# Books
 
 <div align="center">
   <img src="https://ryanditko-dev.vercel.app/src/img/projetos/books.avif" alt="Capa do Projeto" width="100%">
